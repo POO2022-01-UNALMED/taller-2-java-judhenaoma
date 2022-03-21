@@ -16,7 +16,7 @@ public class Motor {
 	}
 	
 	
-	void asignartipo(String tipo) {
+	void asignarTipo(String tipo) {
 		
 		String[] tipoVeh = {"gasolina", "electrico"};
 		
